@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vottery</string>
+    <string name="ID_Hint">Enter your Accound ID</string>
+    <string name="PW_Hint">Enter your password</string>
+    <string name="LogInBtnText">Log In</string>
+    <string name="IdNotFound">"Couldn't find your Vottery Account"</string>
+    <string name="IncorrectPW">Wrong password. Try again or click Forgot password.</string>
+    <string name="loginSuccess">User Log-In Success!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="surveylist">Survey List</string>
+    <string name="myresult">My Result</string>
+    <string name="makesurvey">Make Survey</string>
+</resources>
